@@ -1,0 +1,10 @@
+Juin 28,2017
+Contributeurs : Collura Matthieu / Roche Clément
+
+Ce dossier comprend 3 sous-dossiers des 3 parties du projet sur la main robotisée : 
+
+-Dossier "moteur" : comprend le code source Mbed qui sert a piloter les servomoteurs donc globalement la main. Ce dossier contient aussi tous les éléments concernant le hardware (connectiques, composants, interconnexion du shield PWM etc...) 
+
+-Dossier "gant_capteur" : comprend le code source Mbed qui sert à récupérer les informations des accéléromètres du gant pour les envoyer vers la carte moteur avec l'aide du module Xbee. Ce dossier contient aussi tous les éléments concernant le hardware (connectiques, composants etc...) 
+
+-Dossier "Android" : comprend le projet Android développé avec Android Studio qui permet de superviser la main robotisée.
